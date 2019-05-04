@@ -1,0 +1,8 @@
+.DS_Store
+.metals
+.bloop
+project/project
+project/target
+project/.bloop
+target
+.idea
