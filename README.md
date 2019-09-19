@@ -13,12 +13,12 @@ This boilerplate includes :
 ```
 ## DEPENDENCIES
 ```
-scala           : 2.12.8
+scala           : 2.13.0
 sbt             : 1.2.8
 libraries
 ---------
     - log4j     : 2.11.2
-    - scalatest : 3.0.5
+    - scalatest : 3.0.8
 plugins
 -------
     - scalastyle-sbt-plugin : 1.0.0
