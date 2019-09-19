@@ -10,15 +10,15 @@ developers := List(
 version := "1.0"
 
 // Scala Properties
-scalaVersion := "2.12.8"
+scalaVersion := "2.13.0"
 
 // Library Dependencies for Log4j2
 libraryDependencies += "org.apache.logging.log4j" % "log4j-api" % "2.11.2"
 libraryDependencies += "org.apache.logging.log4j" % "log4j-core" % "2.11.2"
 
-// Library Dependencies For Stala Test
-libraryDependencies += "org.scalactic" %% "scalactic" % "3.0.5"
-libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.5" % "test"
+// Library Dependencies For Scala Test
+libraryDependencies += "org.scalactic" %% "scalactic" % "3.0.8"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.8" % "test"
 
 // ============================================================================
 
